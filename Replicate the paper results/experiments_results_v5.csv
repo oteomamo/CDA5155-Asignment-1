@@ -1,0 +1,16 @@
+TestName,RunIndex,WhichNeuronsStuck,OriginalAccuracy,StuckTrainAccuracy
+ComboErr_Z0.05_H0.05_N0.1,1,RandomEachForward,96.88,84.38
+ComboErr_Z0.05_H0.05_N0.1,2,RandomEachForward,96.88,76.56
+ComboErr_Z0.05_H0.05_N0.1,3,RandomEachForward,96.88,87.50
+ComboErr_Z0.05_H0.05_N0.1,4,RandomEachForward,96.88,90.62
+ComboErr_Z0.05_H0.05_N0.1,5,RandomEachForward,96.88,75.00
+ComboErr_Z0.1_H0.15_N0.2,1,RandomEachForward,100.00,75.00
+ComboErr_Z0.1_H0.15_N0.2,2,RandomEachForward,100.00,68.75
+ComboErr_Z0.1_H0.15_N0.2,3,RandomEachForward,100.00,76.56
+ComboErr_Z0.1_H0.15_N0.2,4,RandomEachForward,100.00,68.75
+ComboErr_Z0.1_H0.15_N0.2,5,RandomEachForward,100.00,73.44
+ComboErr_Z0.2_H0.3_N0.4,1,RandomEachForward,100.00,51.56
+ComboErr_Z0.2_H0.3_N0.4,2,RandomEachForward,100.00,67.19
+ComboErr_Z0.2_H0.3_N0.4,3,RandomEachForward,100.00,56.25
+ComboErr_Z0.2_H0.3_N0.4,4,RandomEachForward,100.00,67.19
+ComboErr_Z0.2_H0.3_N0.4,5,RandomEachForward,100.00,54.69
